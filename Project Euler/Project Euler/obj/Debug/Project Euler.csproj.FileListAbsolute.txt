@@ -1,0 +1,56 @@
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\Project Euler.exe.config
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\Project Euler.exe
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\Project Euler.pdb
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\obj\Debug\Project Euler.csproj.AssemblyReference.cache
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\obj\Debug\Project Euler.csproj.CoreCompileInputs.cache
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\obj\Debug\Project Euler.exe
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\obj\Debug\Project Euler.pdb
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\Humanizer.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\Humanizer.xml
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\af\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\az\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\da\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\de\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\el\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\es\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\he\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\id\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\is\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\it\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\ko-KR\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\ku\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\ms-MY\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\mt\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\th-TH\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\nghi.nguyen\source\repos\Project Euler\Project Euler\bin\Debug\zh-Hant\Humanizer.resources.dll
